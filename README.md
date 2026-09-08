@@ -7,5 +7,4 @@ $\color{#783767}{\textsf{QUEST \quad FOR \quad LOVE}}$
 <br>
 $\color{#984F8A}{\textsf{QUEST \quad FOR \quad DREAM}}$
 <br>
-$\color{#D0D8E5}{\textsf{QUEST \quad FOR—}}$
-$\color{#E8EDE8}{\textsf{ALL \quad TRUTH!!}}$
+$\color{#D0D8E5}{\textsf{QUEST \quad FOR \quad ALL \quad TRUTH!!}}$
