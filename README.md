@@ -11,5 +11,3 @@ $\color{#984F8A}{\textsf{QUEST \quad FOR \quad DREAM}}$
 $\color{#D0D8E5}{\textsf{QUEST \quad FOR \quad ALL \quad TRUTH!!}}$
   
 [![atabook](usTogether.png)](https://gigglemut.atabook.org/)
-
-<iframe width="110" height="200" src="https://www.myinstants.com/instant/bark-fart-sound-82395/embed/" frameborder="0" scrolling="no"></iframe>
